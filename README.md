@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @XXRae
+- 👋 Hi, I’m @Yuyan-Lei
 - 👩🏻‍🎓 I'm an MSCS student from NEU.
 - 👀 I’m interested in programming, painting, and reading novels.
-- 🌱 I’m currently learning JAVA and C.
+- 🌱 I’m currently learning React and Java.
 - 💞️ I’m looking to collaborate on creative projects.
 - 📫 How to reach me -> https://www.linkedin.com/in/yuyan-lei/
