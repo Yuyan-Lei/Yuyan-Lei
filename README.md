@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Yuyan-Lei
+- 👋 Hi, I’m @Rae
 - 👩‍💻 I’m currently working as a full-stack SDE.
 - 👀 I’m interested in programming, painting, and reading novels.
 - 💞️ I’m looking to collaborate on creative projects.
-- 📫 How to reach me -> https://www.linkedin.com/in/yuyan-lei/
